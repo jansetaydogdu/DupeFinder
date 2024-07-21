@@ -1,4 +1,4 @@
-Currently the project is at it's beginning.
+# Currently the project is at it's beginning.
 The goal is: Get a list of ingredients for a product and find similar products with different attributes
 
 Roadmap:
