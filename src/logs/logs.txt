@@ -1,0 +1,30 @@
+INFO	Time:2024-07-21 11:20:02,971	Function:main      	PROGRAM STARTED
+INFO	Time:2024-07-21 11:20:02,971	Function:main      	Main
+INFO	Time:2024-07-21 11:20:02,986	Function:main      	PROGRAM ENDED
+
+INFO	Time:2024-07-21 11:21:12,163	Function:main      	PROGRAM STARTED
+INFO	Time:2024-07-21 11:21:12,163	Function:main      	Main
+INFO	Time:2024-07-21 11:21:12,211	Function:main      	PROGRAM ENDED
+
+INFO	Time:2024-07-21 11:23:21,794	Function:main      	PROGRAM STARTED
+INFO	Time:2024-07-21 11:23:21,841	Function:main      	PROGRAM ENDED
+
+INFO	Time:2024-07-21 11:24:01,535	Function:main      	PROGRAM STARTED
+INFO	Time:2024-07-21 11:24:01,591	Function:main      	PROGRAM ENDED
+
+INFO	Time:2024-07-21 11:25:21,633	Function:main      	PROGRAM STARTED
+INFO	Time:2024-07-21 11:25:21,680	Function:main      	PROGRAM ENDED
+
+INFO	Time:2024-07-21 11:25:38,992	Function:main      	PROGRAM STARTED
+INFO	Time:2024-07-21 11:25:53,178	Function:main      	PROGRAM STARTED
+INFO	Time:2024-07-21 11:25:53,244	Function:main      	PROGRAM ENDED
+
+INFO	Time:2024-07-21 11:26:13,269	Function:main      	PROGRAM STARTED
+INFO	Time:2024-07-21 11:26:13,315	Function:main      	PROGRAM ENDED
+
+INFO	Time:2024-07-21 11:26:39,652	Function:main      	PROGRAM STARTED
+INFO	Time:2024-07-21 11:26:39,702	Function:main      	PROGRAM ENDED
+
+INFO	Time:2024-07-21 11:27:00,918	Function:main      	PROGRAM STARTED
+INFO	Time:2024-07-21 11:27:00,963	Function:main      	PROGRAM ENDED
+
