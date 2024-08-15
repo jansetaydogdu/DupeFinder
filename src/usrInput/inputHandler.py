@@ -11,7 +11,7 @@ manual = {
         "searchToCsv":
         f"""
         searchToCsv <optional:Category> <Ingredients>
-        'python dupeFinderCli searchToCsv Toothpaste water glycerin':
+        'python dupeFinderCli searchToCsv "Toothpaste, water, glycerin":
         Search Toothpaste in order of matching ingredients to water and glycerin, then write results to output.csv
         """,
 
